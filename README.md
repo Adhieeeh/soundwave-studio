@@ -9,3 +9,4 @@ SoundWave is an advanced developer focus utility engineered with React. It lever
 ##  Running Instructions
 1. Install packages: `npm install`
 2. Run ecosystem: `npm run dev`
+-----------------------------------------------------------------------------------------------
